@@ -1,8 +1,8 @@
 public class StringEncryption {
     public static void main(String[] args) {
-        String a="tc2eo.nkq8apf0yh4z95gblsj1iwu@x3v76";
+        String a="tc2eo.nkq8apf0yh4z95gblsj1iwu@x3v76"; // Random token number you can change it with random numbers and letters
         char []ch=a.toCharArray();
-        String email="shariqshaikh226@gmail.com";
+        String email="shariqshaikh226@gmail.com"; // email could be yours it's incase sensitive
         char []ch1=email.toCharArray();
         String numbers="";
         for(int i=0; i<ch1.length; i++){
