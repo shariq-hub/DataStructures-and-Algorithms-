@@ -10,7 +10,7 @@ public class Problem166{
         int b=year/100%10; // we will get secind digit
         int c=year/10%10; //we will get third digit
         int d=year%10; // we will get the last digit
-        if(a!=b&&a!=c&&a!=d&&b!=c&&b!=d&&c!=d) // here we are comparing each digit
+        if(a!=b&&a!=c&&a!=d&&b!=c&&b!=d&&c!=d) //Here we are comparing each digit
         { 
             System.out.println(year);
             break;
