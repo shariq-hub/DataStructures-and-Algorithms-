@@ -1,3 +1,4 @@
+//A. 155A - I_love_%username% Solution in java By Shariq Shaikh This is the first solution in all over internet of this problem in java 
 import java.util.Scanner;
 
 public class CodeforcesProblems {
