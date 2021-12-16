@@ -8,7 +8,6 @@ public class CodeforcesProblems {
         Scanner scanner=new Scanner(System.in);
         String s=scanner.nextLine();
         String s2="";
-        String s3="";
         for(int i=0; i<s.length(); i++){
             if(i%2==0){
                 s2+=s.charAt(i);
