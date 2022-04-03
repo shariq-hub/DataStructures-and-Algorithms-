@@ -13,7 +13,7 @@ public class queueimplementation{
         arr[0]=temp;
         
         for(int c:arr){
-        System.out.println(c);
+        System.out.println(c); // Here we are printing the answer
         }
     }
 }
