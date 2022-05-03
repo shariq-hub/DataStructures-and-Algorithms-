@@ -3,7 +3,7 @@ public static int BinarySearch(int arr[],int target){
         int start=0,end=arr.length-1;  //1 2 3 4 5 6 7 8 9 10
                                      //start  mid        //end
         while(start<=end){
-            int mid = start + (end - start) / 2;
+            int mid = start + (end - start) / 2; // here we get the mid element
             if(target<mid){
                 end=mid-1;
             }
